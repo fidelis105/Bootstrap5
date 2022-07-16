@@ -1,0 +1,25 @@
+body {
+    background-color: yellowgreen;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background: url(Backgraund.jpg);
+    color: white;
+
+}
+
+#gallery {
+    background-color: yellowgreen;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#contact {
+    background: url(Backgraund.jpg);
+    padding-bottom: 5%;
+    padding-top: 5%;
+    color: white;
+}
